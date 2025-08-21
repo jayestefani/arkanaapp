@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>NotoSansSC-Medium.ttf</string>
+		<string>PlayfairDisplaySC-Bold.ttf</string>
+		<string>PlayfairDisplaySC-Italic.ttf</string>
+		<string>PlayfairDisplaySC-Regular.ttf</string>
+		<string>NotoSansSC-Regular.ttf</string>
+		<string>CormorantGaramond-VariableFont_wght.ttf</string>
+		<string>PlayfairDisplay-VariableFont_wght.ttf</string>
+		<string>NotoSans-VariableFont_wdth,wght.ttf</string>
+		<string>PlayfairDisplay-Italic-VariableFont_wght.ttf</string>
+	</array>
+</dict>
+</plist>

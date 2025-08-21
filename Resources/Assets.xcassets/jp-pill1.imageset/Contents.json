@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20250728_1438_Colorful Yin Yang_simple_compose_01k1957v6pedc9ekba4ee516zv.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
